@@ -1,8 +1,4 @@
-# Bảng Từ Vựng Tiếng Đức Chuyên Ngành Bất Động Sản
 
-**Tổng số từ vựng:** 816 từ
-
-## 1. CÁC LOẠI HÌNH BẤT ĐỘNG SẢN (Immobilienarten)
 
 | Từ tiếng Đức | IPA của từ | Nghĩa tiếng Việt | Ví dụ tiếng Đức có IPA và kiến thức thực tiễn | Bản dịch tiếng Việt |
 |---|---|---|---|---|
